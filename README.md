@@ -36,7 +36,7 @@ Antes de rodar o projeto, você precisa configurar as dependências necessárias
 ### Uso
 1. Clique no botão "Autenticar" para obter o token de acesso.
 2. Clique no botão "Cadastrar um Boleto" para adicionar um novo boleto, preenchendo as informações necessárias.
-3. Os boletos serão registrados via API, mas não são listados na interface.
+3. Os boletos serão registrados via API, e são listados na interface.
 
 ## Interface
 
