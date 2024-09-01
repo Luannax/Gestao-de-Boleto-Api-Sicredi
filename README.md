@@ -44,8 +44,8 @@ Antes de rodar o projeto, você precisa configurar as dependências necessárias
 A interface principal é simples e eficiente, com um cabeçalho e botões principais para **Autenticar** e **Cadastrar Boleto**.
 
 #### Tela Inicial:
-![Tela Inicial](img/tela-inicial.png)
-![Tela Inicial com os boletos](img/tela-inicial.png)
+![Tela Inicial](interface1.png)
+![Tela Inicial com os boletos](interface2.png)
 
 ### Interações e Mensagens de Sucesso/Erro
 O sistema exibe mensagens de sucesso e erro conforme as ações são realizadas, tornando o fluxo intuitivo para o usuário.
