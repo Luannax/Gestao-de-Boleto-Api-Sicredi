@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./style.css">
+    <link rel="autor" href="Luanna Bahia">
+    <title>GESTÃO DE BOLETOS</title>
+
+</head>
+
+<body>
+    <header>
+        <h1>GESTÃO DE BOLETOS</h1>
+    </header>
+    <main>
+        <div class="container-btn">
+            <button id="AutenticarBtn">Autenticar</button>
+            <button id="CadastrarBtn">Cadastrar um Boleto</button>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Valor</th>
+                    <th>Vencimento</th>
+                    <th>Parcelas</th>
+                    <th>Opções</th>
+                </tr>
+            </thead>
+            <tbody id="boletos-tbody">
+                <!-- Boletos serão cadastrado vão aparecer aqui -->
+            </tbody>
+        </table>
+
+        <div id="msg-sucess"></div>
+        <div id="msg-error"></div>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por 
+            <a href="https://github.com/Luannax" target="_blank">Luanna Bahia</a>
+            © 2024
+        </p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
