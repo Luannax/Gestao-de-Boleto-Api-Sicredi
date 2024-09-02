@@ -22,7 +22,7 @@ Este é um projeto de **Gestão de Boletos** desenvolvido para facilitar o cadas
 Antes de rodar o projeto, você precisa configurar as dependências necessárias para realizar as requisições à API Sicredi:
 1. **Chave API** (x-api-key) da API do Sicredi.
 2. **Autenticação** com as credenciais corretas para obter o token.
-3. **Documentação*** é possível achar na internet, lá você vai encontrar os passos completos para implementar a api
+3. **Documentação** é possível achar na internet, lá você vai encontrar os passos completos para implementar a api
 
 ### Instalação
 1. Faça o download do repositório:
