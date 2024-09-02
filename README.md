@@ -16,6 +16,9 @@ Este é um projeto de **Gestão de Boletos** desenvolvido para facilitar o cadas
 - **jQuery**
 - **API Sicredi (Cobranca)**
 
+#### Site de desenvolvedor do Sicredi:
+![Portal do desenvolvedor](portaldevsicredi)
+
 ## Como Utilizar
 
 ### Pré-requisitos
