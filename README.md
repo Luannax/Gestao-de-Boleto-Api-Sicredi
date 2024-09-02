@@ -17,7 +17,7 @@ Este é um projeto de **Gestão de Boletos** desenvolvido para facilitar o cadas
 - **API Sicredi (Cobranca)**
 
 #### Site de desenvolvedor do Sicredi:
-![Portal do desenvolvedor](portaldevsicredi)
+![Portal do desenvolvedor](portaldevsicredi.png)
 
 ## Como Utilizar
 
